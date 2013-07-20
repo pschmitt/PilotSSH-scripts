@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+echo '{ "version": 1, "title": "Lamps", "type":"commands", "values" : [ {"name" : "Lamps on", "value" : "", "command" : ".pilotssh/lamps/lon.sh" }, {"name" : "Lamps off", "value" : "", "command" : ".pilotssh/lamps/loff.sh" } ] }';
